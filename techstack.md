@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/sort-package-json](https://github.com/nice-org-two/sort-package-json)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|49<br/>Contributors|11/07/23 <br/>Report generated|04/26/22<br/>Last commit date|
+|31<br/>Tools used|49<br/>Contributors|11/08/23 <br/>Report generated|04/26/22<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -136,27 +136,27 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@commitlint/cli](https://github.com/conventional-changelog/commitlint)|v8.3.5|N/A|N/A |MIT|N/A|
-|[@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint)|v8.3.4|N/A|N/A |MIT|N/A|
-|[ava](https://avajs.dev)|v3.5.1|N/A|N/A |MIT|N/A|
-|[del](https://github.com/sindresorhus/del)|v6.0.0|N/A|N/A |MIT|N/A|
-|[detect-indent](https://github.com/sindresorhus/detect-indent)|v6.1.0|N/A|N/A |MIT|N/A|
-|[dot-prop](https://github.com/sindresorhus/dot-prop)|v3.0.0|N/A|N/A |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
-|[dtslint](https://github.com/Microsoft/dtslint)|v4.2.1|N/A|N/A |MIT|N/A|
-|[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)|v6.15.0|N/A|N/A |MIT|N/A|
-|[eslint-config-standard](https://github.com/standard/eslint-config-standard)|v14.1.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)|v2.25.4|N/A|N/A |MIT|N/A|
-|[eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)|v3.4.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)|v4.3.1|N/A|N/A |ISC|N/A|
-|[eslint-plugin-standard](https://github.com/standard/eslint-plugin-standard)|v4.1.0|N/A|N/A |MIT|N/A|
-|[globby](https://github.com/sindresorhus/globby)|v11.1.0|N/A|N/A |MIT|N/A|
-|[is-plain-obj](https://github.com/sindresorhus/is-plain-obj)|v1.1.0|N/A|N/A |MIT|N/A|
-|[lint-staged](https://github.com/okonet/lint-staged)|v10.5.4|N/A|N/A |MIT|N/A|
-|[make-dir](https://github.com/sindresorhus/make-dir)|v3.0.2|N/A|N/A |MIT|N/A|
-|[nyc](https://github.com/istanbuljs/nyc)|v15.1.0|N/A|N/A |ISC|N/A|
-|[semantic-release](https://github.com/semantic-release/semantic-release)|v17.0.5|N/A|N/A |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)<br/>[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
-|[tempy](https://github.com/sindresorhus/tempy)|v1.0.1|N/A|N/A |MIT|N/A|
+|[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|v8.3.5|N/A|N/A |MIT|N/A|
+|[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v8.3.4|N/A|N/A |MIT|N/A|
+|[ava](https://www.npmjs.com/ava)|v3.5.1|N/A|N/A |MIT|N/A|
+|[del](https://www.npmjs.com/del)|v6.0.0|N/A|N/A |MIT|N/A|
+|[detect-indent](https://www.npmjs.com/detect-indent)|v6.1.0|N/A|N/A |MIT|N/A|
+|[dot-prop](https://www.npmjs.com/dot-prop)|v3.0.0|N/A|N/A |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
+|[dtslint](https://www.npmjs.com/dtslint)|v4.2.1|N/A|N/A |MIT|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v6.15.0|N/A|N/A |MIT|N/A|
+|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v14.1.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.25.4|N/A|N/A |MIT|N/A|
+|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v4.3.1|N/A|N/A |ISC|N/A|
+|[eslint-plugin-standard](https://www.npmjs.com/eslint-plugin-standard)|v4.1.0|N/A|N/A |MIT|N/A|
+|[globby](https://www.npmjs.com/globby)|v11.1.0|N/A|N/A |MIT|N/A|
+|[is-plain-obj](https://www.npmjs.com/is-plain-obj)|v1.1.0|N/A|N/A |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|N/A|N/A |MIT|N/A|
+|[make-dir](https://www.npmjs.com/make-dir)|v3.0.2|N/A|N/A |MIT|N/A|
+|[nyc](https://www.npmjs.com/nyc)|v15.1.0|N/A|N/A |ISC|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v17.0.5|N/A|N/A |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)<br/>[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
+|[tempy](https://www.npmjs.com/tempy)|v1.0.1|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>

@@ -1,7 +1,7 @@
 repo_name: nice-org-two/sort-package-json
-report_id: 5629ac54c96211c73ec07f17df556024
+report_id: 7f86b073e4232d5ede181048d707f8cc
 repo_type: Public
-timestamp: '2023-11-07T12:48:46+00:00'
+timestamp: '2023-11-08T07:32:21+00:00'
 requested_by: bob-wise0
 provider: github
 branch: master
@@ -15,7 +15,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -25,7 +25,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -35,7 +35,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Code Review
-  imageURL: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source: package.json
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,7 +44,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -53,7 +53,7 @@ tools:
   hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
-  imageURL: https://img.stackshare.io/service/11563/actions.png
+  image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/release.yml"
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -64,7 +64,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Code Review
-  imageURL: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: npm
@@ -74,13 +74,13 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
-  imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: package.json
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package-lock.json
 - name: React Navigation
   description: Flexible navigation library for React Native and web. Learn once, navigate
@@ -90,13 +90,13 @@ tools:
   hosted_saas: false
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
-  imageURL: https://img.stackshare.io/service/6422/react-navigation.png
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
   detection_source: package.json
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/9527/5502029.jpeg
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
   detection_source: package.json
 - name: "@commitlint/cli"
   description: Lint your commit messages
@@ -107,7 +107,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: "@commitlint/config-conventional"
@@ -119,7 +119,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: ava
@@ -131,7 +131,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: del
@@ -143,7 +143,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: detect-indent
@@ -155,7 +155,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/18494/default_cede69e31c17bc0ea44d5859768333df0dd3c641.png
+  image_url: https://img.stackshare.io/package/18494/default_cede69e31c17bc0ea44d5859768333df0dd3c641.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: dot-prop
@@ -167,7 +167,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17800/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  image_url: https://img.stackshare.io/package/17800/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
   detection_source_url: package-lock.json
   detection_source: package.json
   vulnerabilities:
@@ -186,7 +186,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17130/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  image_url: https://img.stackshare.io/package/17130/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-config-prettier
@@ -198,7 +198,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-config-standard
@@ -210,7 +210,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-plugin-import
@@ -222,7 +222,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-plugin-node
@@ -234,7 +234,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-plugin-prettier
@@ -246,7 +246,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-plugin-promise
@@ -258,7 +258,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: eslint-plugin-standard
@@ -270,7 +270,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: globby
@@ -282,7 +282,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  image_url: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: is-plain-obj
@@ -294,7 +294,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/18523/default_4ab681e38c50826e4ec993cd0190baa65b5e5d17.png
+  image_url: https://img.stackshare.io/package/18523/default_4ab681e38c50826e4ec993cd0190baa65b5e5d17.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: lint-staged
@@ -306,7 +306,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: make-dir
@@ -318,7 +318,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17686/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  image_url: https://img.stackshare.io/package/17686/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: nyc
@@ -330,7 +330,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: package-lock.json
   detection_source: package.json
 - name: semantic-release
@@ -342,7 +342,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  image_url: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
   detection_source_url: package-lock.json
   detection_source: package.json
   vulnerabilities:
@@ -367,6 +367,6 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17057/default_32da0e64c9ec90f8f302a76668f802f1f4d08177.png
+  image_url: https://img.stackshare.io/package/17057/default_32da0e64c9ec90f8f302a76668f802f1f4d08177.png
   detection_source_url: package-lock.json
   detection_source: package.json

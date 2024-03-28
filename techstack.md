@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/sort-package-json](https://github.com/nice-org-two/sort-package-json)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|34<br/>Tools used|03/17/24 <br/>Report generated|
+|34<br/>Tools used|03/28/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -156,12 +156,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[dot-prop](https://www.npmjs.com/dot-prop)|v3.0.0|04/26/22|bob-wise0 |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v17.0.5|04/26/22|bob-wise0 |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)<br/>[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|v8.3.5|04/26/22|bob-wise0 |MIT|N/A|
 |[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v8.3.4|04/26/22|bob-wise0 |MIT|N/A|
 |[ava](https://www.npmjs.com/ava)|v3.5.1|04/26/22|bob-wise0 |MIT|N/A|
 |[del](https://www.npmjs.com/del)|v6.0.0|04/26/22|bob-wise0 |MIT|N/A|
 |[detect-indent](https://www.npmjs.com/detect-indent)|v6.1.0|04/26/22|bob-wise0 |MIT|N/A|
-|[dot-prop](https://www.npmjs.com/dot-prop)|v3.0.0|04/26/22|bob-wise0 |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
 |[dtslint](https://www.npmjs.com/dtslint)|v4.2.1|04/26/22|bob-wise0 |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v6.15.0|04/26/22|bob-wise0 |MIT|N/A|
 |[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v14.1.1|04/26/22|bob-wise0 |MIT|N/A|
@@ -176,7 +177,6 @@ Full tech stack [here](/techstack.md)
 |[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|04/26/22|bob-wise0 |MIT|N/A|
 |[make-dir](https://www.npmjs.com/make-dir)|v3.0.2|04/26/22|bob-wise0 |MIT|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v15.1.0|04/26/22|bob-wise0 |ISC|N/A|
-|[semantic-release](https://www.npmjs.com/semantic-release)|v17.0.5|04/26/22|bob-wise0 |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)<br/>[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[tempy](https://www.npmjs.com/tempy)|v1.0.1|04/26/22|bob-wise0 |MIT|N/A|
 
 <br/>
